@@ -1,3 +1,14 @@
+# Todo App
+
+## I.ve created Todo App with CRUD method
+ You can add, edit and delete any todos in app
+
+
+### Screen Gif
+
+![](screen.gif)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
